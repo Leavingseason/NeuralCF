@@ -1,6 +1,7 @@
-# Neural Collaborative Filtering
+# Neural Collaborative Filtering (with keras v2)
 
 We slightly modified the code to make it run under keras v2.1.3 and use tensorflow ad the backend.
+Environment: keras v2.1.3   python 3.5  tensorflow
 
 ----------------Below is the original words of ahthors -----------------------------
 
